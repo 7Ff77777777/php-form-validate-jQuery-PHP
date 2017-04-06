@@ -1,0 +1,35 @@
+body {
+    font-family: Arial,Tahoma,sans-serif;
+}
+#contact wrapper {
+    width: 430px;
+    border: 1px solid #e2e2e2;
+    background: #f1f1f1;
+    padding: 20px;
+}
+#contact wrapper div {
+    clear: both;
+    margin: 1em 0;
+}
+#contact wrapper label {
+    display: block;
+    float: none;
+    font-size: 16px;
+    width: auto;
+}
+form#contactform input {
+    border-color: #b7b7b7 #e8e8e8 #e8e8e8 #b7b7b7;
+    border-style: solid;
+    border-width: 1px;
+    padding: 5px;
+    font-size: 16px;
+    width: auto;
+}
+form#contactform textarea {
+    font-family: Arial, Tahoma, Helvetica, sans-serif;
+    font-size: 100%;
+    padding: 0.6em 0.5em 0.7em;
+    border-color: #b7b7b7 #e8e8e8 #e8e8e8 #b7b7b7;
+    border-style: solid;
+    border-width: 1px;
+}
